@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "tar": "^7.5.9"
   }
 }
